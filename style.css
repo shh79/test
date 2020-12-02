@@ -1,12 +1,19 @@
-h1{
-    color: brown;
-}
-
-p{
-    font-size: 20px;
-    color: red;
+.Header{
+    background-color: rgba(31, 29, 30,1);
+    color: whitesmoke;
+    padding: 5vh;
+    margin: 2vw;
+    text-align: center;
 }
 
 body{
-    background-color: rgb(71, 48, 28);
+    background-color: rgba(48, 46, 47, 0.9);
+}
+
+.Footer{
+    padding: 1vw;
+    margin: 2vw;
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgba(31, 29, 30,1);
 }
