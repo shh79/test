@@ -3,6 +3,10 @@ h1{
 }
 
 p{
-    font-size: 50px;
+    font-size: 20px;
     color: red;
+}
+
+body{
+    background-color: rgb(71, 48, 28);
 }
