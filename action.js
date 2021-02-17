@@ -3,3 +3,7 @@ function MasterBranch(){
     var name="Master";
     var ID=0;
 }
+
+function NewBranch(){
+    var Greeting="Hello World";
+}
