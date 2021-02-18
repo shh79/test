@@ -8,3 +8,7 @@ function MasterBranch(){
 function NewBranch(){
     var Greeting="Hello World again";
 }
+
+function UsefulFunc(){
+    var message="hello my friends !!!";
+}
