@@ -6,5 +6,5 @@ function MasterBranch(){
 }
 
 function NewBranch(){
-    var Greeting="Hello World";
+    var Greeting="Hello World again";
 }
