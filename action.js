@@ -15,4 +15,5 @@ function UsefulFunc(){
 
 function NewHeader(){
     var Text="New Header";
+    var num =10;
 }
