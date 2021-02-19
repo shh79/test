@@ -12,3 +12,7 @@ function NewBranch(){
 function UsefulFunc(){
     var message="hello my friends !!!";
 }
+
+function NewHeader(){
+    var Text="New Header";
+}
